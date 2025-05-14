@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <ul className="flex space-x-6 mt-8">
         <li className="flex flex-col items-center space-y-1">
-          <div className="relative bg-gradient-to-tr from-yellow-500 to-purple-800 rounded-full p-1">
+          <div className="relative insta-gradient rounded-full p-1">
           <a className="block theme-bg p-1 rounded-full transform transition duration-300 hover:-rotate-6" href="#">
             <img className="h-35 w-35 rounded-full" src="/a0.jpg" alt="Your Story" />
           </a>
@@ -14,7 +14,7 @@ export default function Home() {
           <a href="#">Your story</a>
         </li>
         <li className="flex flex-col items-center space-y-1">
-          <div className="bg-gradient-to-tr from-yellow-500 to-purple-800 rounded-full p-1">
+          <div className="insta-gradient rounded-full p-1">
           <a className="block theme-bg p-1 rounded-full transform transition duration-300 hover:-rotate-6" href="#">
             <img className="h-35 w-35 rounded-full" src="/a1.jpg" alt="david_912" />
           </a>
@@ -22,7 +22,7 @@ export default function Home() {
           <a href="#">david_912</a>
         </li>
         <li className="flex flex-col items-center space-y-1">
-          <div className="bg-gradient-to-tr from-yellow-500 to-purple-800 rounded-full p-1">
+          <div className="insta-gradient rounded-full p-1">
           <a className="block theme-bg p-1 rounded-full transform transition duration-300 hover:-rotate-6" href="#">
             <img className="h-35 w-35 rounded-full" src="/a2.jpg" alt="carl_son" />
           </a>
@@ -30,7 +30,7 @@ export default function Home() {
           <a href="#">carl_son_42</a>
         </li>
         <li className="flex flex-col items-center space-y-1">
-          <div className="bg-gradient-to-tr from-yellow-500 to-purple-800 rounded-full p-1">
+          <div className="insta-gradient rounded-full p-1">
           <a className="block theme-bg p-1 rounded-full transform transition duration-300 hover:-rotate-6" href="#">
             <img className="h-35 w-35 rounded-full" src="/a3.jpg" alt="emma_clarke" />
           </a>
@@ -38,7 +38,7 @@ export default function Home() {
           <a href="#">emma_clarke</a>
         </li>
         <li className="flex flex-col items-center space-y-1">
-          <div className="bg-gradient-to-tr from-yellow-500 to-purple-800 rounded-full p-1">
+          <div className="insta-gradient rounded-full p-1">
           <a className="block theme-bg p-1 rounded-full transform transition duration-300 hover:-rotate-6" href="#">
             <img className="h-35 w-35 rounded-full" src="/a4.jpg" alt="diane_fisher" />
           </a>
